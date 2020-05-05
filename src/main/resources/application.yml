@@ -2,8 +2,8 @@ spring:
   application:
     name: authServer
   datasource:
-    url: jdbc:mysql://117.50.68.235:3306/auth2test?useUnicode=true&serverTimezone=UTC&useSSL=false
-    password: Java20190510ddg123456789@@@@
+    url: jdbc:mysql://xxxxxx/auth2test?useUnicode=true&serverTimezone=UTC&useSSL=false
+    password: xxxxxx
     username: root
     driver-class-name: com.mysql.jdbc.Driver
     platform: mysql
